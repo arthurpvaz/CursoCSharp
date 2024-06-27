@@ -1,0 +1,14 @@
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\bin\Debug\net7.0\TestandoEntradaDeDados.exe
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\bin\Debug\net7.0\TestandoEntradaDeDados.deps.json
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\bin\Debug\net7.0\TestandoEntradaDeDados.runtimeconfig.json
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\bin\Debug\net7.0\TestandoEntradaDeDados.dll
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\bin\Debug\net7.0\TestandoEntradaDeDados.pdb
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\TestandoEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\TestandoEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\TestandoEntradaDeDados.AssemblyInfo.cs
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\TestandoEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\TestandoEntradaDeDados.dll
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\refint\TestandoEntradaDeDados.dll
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\TestandoEntradaDeDados.pdb
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\TestandoEntradaDeDados.genruntimeconfig.cache
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\TestandoEntradaDeDados\TestandoEntradaDeDados\obj\Debug\net7.0\ref\TestandoEntradaDeDados.dll

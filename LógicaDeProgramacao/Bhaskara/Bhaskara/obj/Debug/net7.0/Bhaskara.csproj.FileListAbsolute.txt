@@ -1,0 +1,14 @@
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.AssemblyInfo.cs
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.exe
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.deps.json
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.runtimeconfig.json
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.dll
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.pdb
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.dll
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\refint\Bhaskara.dll
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.pdb
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.genruntimeconfig.cache
+C:\Users\Arthur\OneDrive\Documentos\codes\CursoC#\Bhaskara\Bhaskara\obj\Debug\net7.0\ref\Bhaskara.dll
