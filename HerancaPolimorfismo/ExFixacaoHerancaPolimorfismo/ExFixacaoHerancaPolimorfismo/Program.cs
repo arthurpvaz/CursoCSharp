@@ -35,9 +35,37 @@ namespace ExFixacaoHerancaPolimorfismo
                         Console.Write("Manufacture date (DD/MM/YYYY): ");
                         string[] dateString = Console.ReadLine().Split("/");
 
-                        DateTime manufactureDate = 
-                        products.Add(new (name, price));
+                        DateTime manufactureDate = new DateTime(int.Parse(dateString[2]), int.Parse(dateString[1]), int.Parse(dateString[0]));
+
+                        products.Add(new UsedProduct(name, price, manufactureDate));
                         break;
+
+                    case 'I':
+                        Console.Write("Customs fee: $ ");
+                        double customsFee = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                        products.Add(new ImportedProduct(name, price, customsFee));
+                        break;
+                    default:
+                        Console.WriteLine("Invalid option!");
+                        break;
+                }
+            }
+
+            Console.WriteLine("\nPRICE TAGS:");
+            
+            foreach (Product product in products)
+            {
+                if(product is ImportedProduct)
+                {
+                    Console.WriteLine((product as ImportedProduct).PriceTag());
+                }
+                else if (product is UsedProduct)
+                {
+                    Console.WriteLine((product as UsedProduct).PriceTag());
+                }
+                else
+                {
+                    Console.WriteLine(product.PriceTag());
                 }
             }
         }

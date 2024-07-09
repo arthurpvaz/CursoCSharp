@@ -20,7 +20,9 @@ namespace ExFixacaoHerancaPolimorfismo.Entities
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(base.PriceTag());
+            sb.Append(Name);
+            sb.Append(" $ ");
+            sb.Append((Price + CustomsFee).ToString("F2", CultureInfo.InvariantCulture));
             sb.Append(" (Customs fee: $ ");
             sb.Append(CustomsFee.ToString("F2", CultureInfo.InvariantCulture));
             sb.Append(")");
