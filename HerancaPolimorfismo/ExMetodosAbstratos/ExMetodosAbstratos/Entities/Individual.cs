@@ -24,7 +24,7 @@
                 taxPercentage = 0.25;
             }
 
-            return (taxPercentage * AnualIncome) + (HealthExpenditures * 0.5);
+            return (taxPercentage * AnualIncome) - (HealthExpenditures * 0.5);
         }
     }
 }

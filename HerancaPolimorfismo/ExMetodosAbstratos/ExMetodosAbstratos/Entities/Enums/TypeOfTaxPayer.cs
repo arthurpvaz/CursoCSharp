@@ -2,7 +2,8 @@
 {
     enum TypeOfTaxPayer
     {
-        Company = 'C',
-        Individual = 'I'
+        None,
+        Company,
+        Individual
     }
 }

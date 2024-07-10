@@ -18,11 +18,11 @@ namespace ExMetodosAbstratos.Entities
 
             if (NumberOfEmployees <= 10)
             {
-                taxPercentage = 0.14;
+                taxPercentage = 0.16;
             }
             else
             {
-                taxPercentage = 0.16;
+                taxPercentage = 0.14;
             }
 
             return AnualIncome * taxPercentage;

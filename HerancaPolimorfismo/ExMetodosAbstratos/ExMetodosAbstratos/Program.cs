@@ -17,13 +17,24 @@ namespace ExMetodosAbstratos
             {
                 Console.WriteLine($"Tax payer #{i} data: ");
                 Console.Write("Individual or company (i/c)? ");
-                TypeOfTaxPayer option = char.Parse(Console.ReadLine().ToUpper()); // ver melhor método de implementar
+                char optionString = Char.ToLower(char.Parse(Console.ReadLine()));
+
+                TypeOfTaxPayer option = TypeOfTaxPayer.None;
+
+                if (optionString == 'i')
+                {
+                    option = TypeOfTaxPayer.Individual;
+                }
+                else if (optionString == 'c')
+                {
+                    option = TypeOfTaxPayer.Company;
+                }
 
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
 
-                Console.Write("Anual Income: $ ");
-                double anualIncome = double.Parse(Console.ReadLine());
+                Console.Write("Anual income: $ ");
+                double anualIncome = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 if (option == TypeOfTaxPayer.Individual)
                 {
